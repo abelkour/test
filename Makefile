@@ -1,3 +1,4 @@
+# This is a second comment by user2
 SHELL = /bin/sh
 FLAGS = -g
 CC = g++
