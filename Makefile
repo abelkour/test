@@ -1,3 +1,4 @@
+# This is comment 1
 SHELL = /bin/sh
 FLAGS = -g
 CC = g++
